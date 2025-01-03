@@ -1,3 +1,3 @@
-# Books
 
-This Repo consist of my Learnings from the Books I read.
+# Daily Book Learnings
+This Repository consist of my Learnings from the Books I read.
