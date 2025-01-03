@@ -43,8 +43,12 @@
     7. Most times we'd rather be wrong with the group than be right by ourselves.
     8. We can override it, by 
           ♦ Choose to ignore the Group.
-          ♠ STOP CARING about what other people think.
+          ♦ STOP CARING about what other people think.
     9. BUT, this takes Effort!
+    10. If Changing habits = Challenging Tribe -> Unattractive
+    11. If Changing habits = Fitting in with the Tribe -> Attractive
+**Reflection**
+• If you want to learn a Habit, Fit in with the group that has your desired habit as your normal habit.
 
 
 
