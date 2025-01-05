@@ -36,7 +36,7 @@
     1. In an experiment by Solomon Asch, 1950. When the group (of actors) intentionally choose a wrong option, The subject (an ordinary person) also chooses the same 
        option even though the correct answer is obviously visible. (They try to blend in).
     2. With the increase in the number of people choosing the same option, the subject also chooses to choose the same wrong answer.
-    3. When its 1 actor and 1 subject. The subject chooses the correct answer because the choice of the actor doesn't affect the subject. But with an increased number of people, Yes the subject chooses the wrong option.
+    3. When it is 1 actor and 1 subject. The subject chooses the correct answer because the choice of the actor doesn't affect the subject. But with an increased number of people, Yes the subject chooses the wrong option.
     4. Whenever we are unsure, we tend to act according to what the group is doing.
     5. The normal behaviour of a tribe often overpowers the desired behaviour of a person. 
     6. "The reward of being accepted is often greater than winning an argument, looking smart or finding truth".
